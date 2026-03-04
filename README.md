@@ -15,7 +15,7 @@
   <p>
   Site feito junto com o curso de CSS da ADA
     
-   Para ver o site clique  <a href="https://zallih.github.io/WeForm/index.html">AQUI</a>
+   Para ver o site clique  <a href="https://zallys2.github.io/WeForm/">AQUI</a>
   </p>
 
  
